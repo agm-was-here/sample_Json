@@ -1,0 +1,137 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "Post 1",
+      "body": "This is the body of Post 1",
+      "author": {
+        "id": 101,
+        "name": "John Doe",
+        "email": "john.doe@example.com"
+      },
+      "comments": [
+        {
+          "id": 1,
+          "body": "Comment 1 for Post 1",
+          "author": {
+            "id": 102,
+            "name": "Alice Smith",
+            "email": "alice.smith@example.com"
+          }
+        },
+        {
+          "id": 2,
+          "body": "Comment 2 for Post 1",
+          "author": {
+            "id": 103,
+            "name": "Bob Johnson",
+            "email": "bob.johnson@example.com"
+          }
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Post 2",
+      "body": "This is the body of Post 2",
+      "author": {
+        "id": 104,
+        "name": "Emily Brown",
+        "email": "emily.brown@example.com"
+      },
+      "comments": []
+    },
+    {
+      "id": 3,
+      "title": "Post 3",
+      "body": "This is the body of Post 3",
+      "author": {
+        "id": 105,
+        "name": "Michael Davis",
+        "email": "michael.davis@example.com"
+      },
+      "comments": [
+        {
+          "id": 3,
+          "body": "Comment 1 for Post 3",
+          "author": {
+            "id": 106,
+            "name": "Emma Wilson",
+            "email": "emma.wilson@example.com"
+          }
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "title": "Post 4",
+      "body": "This is the body of Post 4",
+      "author": {
+        "id": 107,
+        "name": "David Clark",
+        "email": "david.clark@example.com"
+      },
+      "comments": []
+    },
+    {
+      "id": 5,
+      "title": "Post 5",
+      "body": "This is the body of Post 5",
+      "author": {
+        "id": 108,
+        "name": "Sophia Martinez",
+        "email": "sophia.martinez@example.com"
+      },
+      "comments": [
+        {
+          "id": 4,
+          "body": "Comment 1 for Post 5",
+          "author": {
+            "id": 109,
+            "name": "William Taylor",
+            "email": "william.taylor@example.com"
+          }
+        },
+        {
+          "id": 5,
+          "body": "Comment 2 for Post 5",
+          "author": {
+            "id": 110,
+            "name": "Olivia Jones",
+            "email": "olivia.jones@example.com"
+          }
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "title": "Post 6",
+      "body": "This is the body of Post 6",
+      "author": {
+        "id": 111,
+        "name": "Daniel Martinez",
+        "email": "daniel.martinez@example.com"
+      },
+      "comments": [
+        {
+          "id": 6,
+          "body": "Comment 1 for Post 6",
+          "author": {
+            "id": 112,
+            "name": "Chloe Brown",
+            "email": "chloe.brown@example.com"
+          }
+        },
+        {
+          "id": 7,
+          "body": "Comment 2 for Post 6",
+          "author": {
+            "id": 113,
+            "name": "Ethan White",
+            "email": "ethan.white@example.com"
+          }
+        }
+      ]
+    }
+  ]
+}
